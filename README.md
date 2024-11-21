@@ -1,8 +1,8 @@
-## Hiya! 👋
+## Hello! 👋
 
-I am a data professional based in London, UK. I love exploring and visualizing data, but also using technology to build software. I am currently looking for new opportunities, ideally a position of an analytics engineer or data analyst with fair use of technology (i.e. not only Excel and/or dashboards, but also some R/Python please).
+I am a data professional based in London, UK. I love analysing and visualizing data and using technology to build software or other tools. I am currently looking for new opportunities in data analytics or analytics engineering space, ideally working with technical-ish rather than finance data. Please feel free to connect on LinkedIn ([in/ospacil/](https://www.linkedin.com/in/ospacil/)) or Bluesky ([ospacil.bsky.social](https://bsky.app/profile/ospacil.bsky.social)).
 
-To be fair, you won't find much in my GitHub repos at the moment because vast majority of my work has been proprietary and not public. But I'll be filling the space here with some personal projects.
+To be sincere, you won't find much in my public GitHub repositories at the moment because vast majority of my work has been proprietary and not public. But I'll be filling the space here with some personal projects.
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospacil&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=transparent&langs_count=8" />
 <!--
